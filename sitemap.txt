@@ -1,14 +1,14 @@
 
-http://mcmiles.net/tags.html
-http://mcmiles.net/atom.xml
-http://mcmiles.net/pages.html
-http://mcmiles.net/categories.html
-http://mcmiles.net/sitemap.txt
-http://mcmiles.net/index.html
-http://mcmiles.net/rss.xml
-http://mcmiles.net/archive.html
+http://www.mcmiles.net/tags.html
+http://www.mcmiles.net/atom.xml
+http://www.mcmiles.net/pages.html
+http://www.mcmiles.net/categories.html
+http://www.mcmiles.net/sitemap.txt
+http://www.mcmiles.net/index.html
+http://www.mcmiles.net/rss.xml
+http://www.mcmiles.net/archive.html
 
-http://mcmiles.net/biking%20europe/2014/02/10/hoek-van-holland-groningen
-http://mcmiles.net/biking%20europe/2014/02/09/london-harwich
-http://mcmiles.net/biking%20europe/2014/02/02/plymouth-london
-http://mcmiles.net/biking%20europe/2013/09/03/copenhagen-gothenberg-telemark
+http://www.mcmiles.net/biking%20europe/2014/02/10/hoek-van-holland-groningen
+http://www.mcmiles.net/biking%20europe/2014/02/09/london-harwich
+http://www.mcmiles.net/biking%20europe/2014/02/02/plymouth-london
+http://www.mcmiles.net/biking%20europe/2013/09/03/copenhagen-gothenberg-telemark
