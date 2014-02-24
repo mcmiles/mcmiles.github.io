@@ -12,9 +12,9 @@
         ]
       },
       "properties": {
-        "name": "From: Kastrup Tværvej B",
-        "styleUrl": "#style28",
-        "styleHash": "7714382f"
+        "title": "From: Kastrup Tværvej B",
+        "marker-symbol": "airport",
+        "marker-size": "small"
       }
     },
     {
@@ -6400,9 +6400,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Ibis Goeteborg City, Gullbergs Strandgata 15B, 411 04 Goteborg, Sweden",
-        "styleUrl": "#style2",
-        "styleHash": "-404c9bf1",
+        "title": "Route to Ibis Goeteborg City, Gullbergs Strandgata 15B, 411 04 Goteborg, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -6417,9 +6417,9 @@
         ]
       },
       "properties": {
-        "name": "To: Ibis Goeteborg City, Gullbergs Strandgata 15B, 411 04 Goteborg, Sweden",
-        "styleUrl": "#style26",
-        "styleHash": "73281f1"
+        "title": "Ibis Goeteborg City, Gullbergs Strandgata 15B, 411 04 Goteborg, Sweden",
+        "marker-symbol": "lodging",
+        "marker-size": "small"
       }
     },
     {
@@ -6510,8 +6510,8 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Barken Viking, Lilla Bommens torg 10, 411 04 Goteborg, Sweden",
-        "styleUrl": "#style18",
+        "title": "Route to Barken Viking, Lilla Bommens torg 10, 411 04 Goteborg, Sweden",
+        "marker-symbol": "",
         "styleHash": -5.0634e+74,
         "_SnapToRoads": "true"
       }
@@ -6527,9 +6527,9 @@
         ]
       },
       "properties": {
-        "name": "To: Barken Viking, Lilla Bommens torg 10, 411 04 Goteborg, Sweden",
-        "styleUrl": "#style16",
-        "styleHash": "4107f930"
+        "title": "Barken Viking, Lilla Bommens torg 10, 411 04 Goteborg, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -6900,9 +6900,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Novotel, Gothenburg, Sweden",
-        "styleUrl": "#style30",
-        "styleHash": "-62b2ba66",
+        "title": "Route to Novotel, Gothenburg, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -6917,9 +6917,9 @@
         ]
       },
       "properties": {
-        "name": "To: Novotel, Gothenburg, Sweden",
-        "styleUrl": "#style29",
-        "styleHash": "-50faecb2"
+        "title": "Novotel, Gothenburg, Sweden",
+        "marker-symbol": "lodging",
+        "marker-size": "small"
       }
     },
     {
@@ -12270,9 +12270,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Strömstad, Sweden",
-        "styleUrl": "#style22",
-        "styleHash": "-4aa48529",
+        "title": "Route to Strömstad, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -12287,9 +12287,9 @@
         ]
       },
       "properties": {
-        "name": "To: Strömstad, Sweden",
-        "styleUrl": "#style12",
-        "styleHash": "61448cb4"
+        "title": "Strömstad, Sweden",
+        "marker-symbol": "ferry",
+        "marker-size": "small"
       }
     },
     {
@@ -12850,9 +12850,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Sandefjord, Norway",
-        "styleUrl": "#style31",
-        "styleHash": "55da05f9",
+        "title": "Route to Sandefjord, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -12867,9 +12867,9 @@
         ]
       },
       "properties": {
-        "name": "To: Sandefjord, Norway",
-        "styleUrl": "#style7",
-        "styleHash": "-2fa513b8"
+        "title": "Sandefjord, Norway",
+        "marker-symbol": "ferry",
+        "marker-size": "small"
       }
     },
     {
@@ -15340,9 +15340,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Bryggeparken, 3724 Skien, Norway",
-        "styleUrl": "#style23",
-        "styleHash": "6de83b36",
+        "title": "Route to Bryggeparken, 3724 Skien, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -15357,9 +15357,9 @@
         ]
       },
       "properties": {
-        "name": "To: Bryggeparken, 3724 Skien, Norway",
-        "styleUrl": "#style11",
-        "styleHash": "2953b195"
+        "title": "Bryggeparken, 3724 Skien, Norway",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -24740,9 +24740,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Dalen Hotel AS, Hotellveien 33, 3880 Dalen, Norway",
-        "styleUrl": "#style34",
-        "styleHash": "7f804716",
+        "title": "Route to Dalen Hotel AS, Hotellveien 33, 3880 Dalen, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -24757,9 +24757,9 @@
         ]
       },
       "properties": {
-        "name": "To: Dalen Hotel AS, Hotellveien 33, 3880 Dalen, Norway",
-        "styleUrl": "#style17",
-        "styleHash": "78f8d44f"
+        "title": "Dalen Hotel AS, Hotellveien 33, 3880 Dalen, Norway",
+        "marker-symbol": "lodging",
+        "marker-size": "small"
       }
     },
     {
@@ -24825,9 +24825,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Dalen Bed & Breakfast, Aasmund Nordgaards veg 6, 3880 Dalen, Norway",
-        "styleUrl": "#style8",
-        "styleHash": "12ffe649",
+        "title": "Route to Dalen Bed & Breakfast, Aasmund Nordgaards veg 6, 3880 Dalen, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -24842,9 +24842,9 @@
         ]
       },
       "properties": {
-        "name": "To: Dalen Bed & Breakfast, Aasmund Nordgaards veg 6, 3880 Dalen, Norway",
-        "styleUrl": "#style14",
-        "styleHash": "-2ed9bd0e"
+        "title": "Dalen Bed & Breakfast, Aasmund Nordgaards veg 6, 3880 Dalen, Norway",
+        "marker-symbol": "lodging",
+        "marker-size": "small"
       }
     },
     {
@@ -31625,9 +31625,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Rjukan, Norway",
-        "styleUrl": "#style32",
-        "styleHash": "e66c658",
+        "title": "Route to Rjukan, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -31642,9 +31642,9 @@
         ]
       },
       "properties": {
-        "name": "To: Rjukan, Norway",
-        "styleUrl": "#style27",
-        "styleHash": "3f235d10"
+        "title": "Rjukan, Norway",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -31658,9 +31658,9 @@
         ]
       },
       "properties": {
-        "name": "To: Kongsberg Golfklubb, Kasin, 3618 Skollenborg, Norway",
-        "styleUrl": "#style9",
-        "styleHash": "403ca286"
+        "title": "Kongsberg Golfklubb, Kasin, 3618 Skollenborg, Norway",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -35471,9 +35471,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Moss, Norway",
-        "styleUrl": "#style3",
-        "styleHash": "7840246e",
+        "title": "Route to Moss, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -35488,9 +35488,9 @@
         ]
       },
       "properties": {
-        "name": "To: Moss, Norway",
-        "styleUrl": "#style20",
-        "styleHash": "-4872a0c9"
+        "title": "Moss, Norway",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -39141,9 +39141,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Tanumshede, Sweden",
-        "styleUrl": "#style33",
-        "styleHash": "-390c7949",
+        "title": "Route to Tanumshede, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -39158,9 +39158,9 @@
         ]
       },
       "properties": {
-        "name": "To: Tanumshede, Sweden",
-        "styleUrl": "#style5",
-        "styleHash": "6079360a"
+        "title": "Tanumshede, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -41526,9 +41526,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
-        "styleUrl": "#style10",
-        "styleHash": "-14c95168",
+        "title": "Route to Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -41543,9 +41543,9 @@
         ]
       },
       "properties": {
-        "name": "To: Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
-        "styleUrl": "#style35",
-        "styleHash": "-6a93d06d"
+        "title": "Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
+        "marker-symbol": "lodging",
+        "marker-size": "small"
       }
     },
     {
@@ -49976,9 +49976,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Kastrup Tværvej B, Kastrup, Denmark",
-        "styleUrl": "#style15",
-        "styleHash": "-7a098f8d",
+        "title": "Route to Kastrup Tværvej B, Kastrup, Denmark",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -49993,9 +49993,9 @@
         ]
       },
       "properties": {
-        "name": "To: Kastrup Tværvej B, Kastrup, Denmark",
-        "styleUrl": "#style24",
-        "styleHash": "-68af344d"
+        "title": "Kastrup Tværvej B, Kastrup, Denmark",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -50009,9 +50009,9 @@
         ]
       },
       "properties": {
-        "name": "From: Rjukan, Norway",
-        "styleUrl": "#style38",
-        "styleHash": "3d3ec0f0"
+        "title": "From: Rjukan, Norway",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -56567,9 +56567,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Kongsberg Golfklubb, Kasin, 3618 Skollenborg, Norway",
-        "styleUrl": "#style13",
-        "styleHash": "14dcefb5",
+        "title": "Route to Kongsberg Golfklubb, Kasin, 3618 Skollenborg, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -56584,9 +56584,9 @@
         ]
       },
       "properties": {
-        "name": "To: Kongsberg Golfklubb, Kasin, 3618 Skollenborg, Norway",
-        "styleUrl": "#style6",
-        "styleHash": "-6795eed7"
+        "title": "Kongsberg Golfklubb, Kasin, 3618 Skollenborg, Norway",
+        "marker-symbol": "golf",
+        "marker-size": "small"
       }
     },
     {
@@ -60397,9 +60397,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Moss, Norway",
-        "styleUrl": "#style37",
-        "styleHash": "-56d977cd",
+        "title": "Route to Moss, Norway",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -60414,9 +60414,9 @@
         ]
       },
       "properties": {
-        "name": "To: Moss, Norway",
-        "styleUrl": "#style1",
-        "styleHash": "-7f4a3672"
+        "title": "Moss, Norway",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -64067,9 +64067,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Tanumshede, Sweden",
-        "styleUrl": "#style39",
-        "styleHash": "1a4008f1",
+        "title": "Route to Tanumshede, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -64084,9 +64084,9 @@
         ]
       },
       "properties": {
-        "name": "To: Tanumshede, Sweden",
-        "styleUrl": "#style36",
-        "styleHash": "-32a2f54e"
+        "title": "Tanumshede, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     },
     {
@@ -66452,9 +66452,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
-        "styleUrl": "#style25",
-        "styleHash": "-20fe440c",
+        "title": "Route to Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -66469,9 +66469,9 @@
         ]
       },
       "properties": {
-        "name": "To: Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
-        "styleUrl": "#style21",
-        "styleHash": "-1081c5aa"
+        "title": "Carlia Hotell AB, Norra Drottninggatan 26, 451 31 Uddevalla, Sweden",
+        "marker-symbol": "lodging",
+        "marker-size": "small"
       }
     },
     {
@@ -74902,9 +74902,9 @@
         ]
       },
       "properties": {
-        "name": "Driving directions to Kastrup Tværvej B, Kastrup, Denmark",
-        "styleUrl": "#style19",
-        "styleHash": "682971ef",
+        "title": "Route to Kastrup Tværvej B, Kastrup, Denmark",
+        "marker-symbol": "",
+        "marker-size": "small",
         "_SnapToRoads": "true"
       }
     },
@@ -74919,9 +74919,9 @@
         ]
       },
       "properties": {
-        "name": "To: Kastrup Tværvej B, Kastrup, Denmark",
-        "styleUrl": "#style4",
-        "styleHash": "28885aeb"
+        "title": "Kastrup Tværvej B, Kastrup, Denmark",
+        "marker-symbol": "",
+        "marker-size": "small"
       }
     }
   ]
