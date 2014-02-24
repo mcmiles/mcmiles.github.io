@@ -74903,7 +74903,7 @@
       },
       "properties": {
         "title": "Route to Kastrup Tværvej B, Kastrup, Denmark",
-        "marker-symbol": "",
+        "marker-symbol": "scooter",
         "marker-size": "small",
         "_SnapToRoads": "true"
       }
@@ -74920,7 +74920,7 @@
       },
       "properties": {
         "title": "Kastrup Tværvej B, Kastrup, Denmark",
-        "marker-symbol": "",
+        "marker-symbol": "airport",
         "marker-size": "small"
       }
     }
